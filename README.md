@@ -4,6 +4,7 @@
 
 Studying Applied Informatics at University of Macedonia(UoM)![image](https://www.uom.gr/favicon.ico)
 
+---
 ### Languages and Tools:
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -22,6 +23,8 @@ Studying Applied Informatics at University of Macedonia(UoM)![image](https://www
 ---
 
 ![Johhei1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Johhei1&show_icons=true&show_icons=true&theme=radical)
+
+---
 
 ### Connect with me:
 <p align="left">
