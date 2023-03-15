@@ -23,8 +23,6 @@ Studying Applied Informatics at University of Macedonia(UoM)![image](https://www
 
 ---
 
----
-
 ### Connect with me:
 <p align="left">
 <a href="https://twitter.com/john__kost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="john__kost" height="30" width="40" /></a>
