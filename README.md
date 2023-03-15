@@ -23,8 +23,6 @@ Studying Applied Informatics at University of Macedonia(UoM)![image](https://www
 
 ---
 
-![Johhei1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Johhei1&show_icons=true&show_icons=true&theme=radical)
-
 ---
 
 ### Connect with me:
