@@ -2,7 +2,7 @@
 
 ## About me
 
-Studying Applied Informatics at University of Macedonia(UoM)![image](https://www.uom.gr/favicon.ico)
+Graduated from University of Macedonia(UoM) and got my BSc in Computer Science![image](https://www.uom.gr/favicon.ico)
 
 ---
 ### Languages and Tools:
